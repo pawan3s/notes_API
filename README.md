@@ -1,4 +1,4 @@
-# Notes API for Namche
+# Notes API for Naamche
 
 ## steps to run the proejct
 1. First Clone the repo to your local disk
