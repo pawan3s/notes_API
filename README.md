@@ -10,3 +10,5 @@ c) JWT_SECRET="any secret key"
 d)JWT_EXPIRES_IN="30d or any"
 
 4. Finally run the project in dev mode with "npm run dev" or in production with "npm start"
+
+Please contact at pawan29s123@gmail.com for any queries
